@@ -15,7 +15,7 @@ contract Allowance {
     // Mapping variable ~ allowanceMoney
     mapping(address => uint) public allowanceMoney;
     
-    // Address bariable ~ owner
+    // Address variable ~ owner
     address public owner;
     
     // Assigning values to variables
